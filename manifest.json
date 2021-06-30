@@ -1,0 +1,32 @@
+{
+  "name": "Food Ninja",
+  "short_name": "FoodNinja",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffe992",
+  "theme_color": "#ffe1c4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./img/icons/icon_64px.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./img/icons/icon_128px.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./img/icons/icon_256px.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./img/icons/icon_512px.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
